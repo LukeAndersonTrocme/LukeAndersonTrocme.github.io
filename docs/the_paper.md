@@ -2,10 +2,10 @@
 
 > This page will have details about the paper
 
-![intro_image](./images/Screen Shot 2022-05-06 at 10.07.40 AM.png)
+![p1](./images/p1.png)
 
-![intro_image](./images/Screen Shot 2022-05-06 at 10.07.50 AM.png)
+![p2](./images/p2.png)
 
-![intro_image](./images/Screen Shot 2022-05-06 at 10.08.06 AM.png)
+![p3](./images/p3.png)
 
-![intro_image](./images/Screen Shot 2022-05-06 at 10.08.27 AM.png)
+![p4](./images/p4.png)
