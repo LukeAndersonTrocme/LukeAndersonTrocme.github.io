@@ -8,6 +8,6 @@ Email : luke.anderson-trocme [at] mail.mcgill.ca
 
 Twitter: @LukeAnderTroc
 
-GitHub: https://github.com/LukeAndersonTrocm
+GitHub: https://github.com/LukeAndersonTrocme
 
-![intro_image](./images/hs.jpg)
+![intro_image](./images/hs.jpg ':size=300')
