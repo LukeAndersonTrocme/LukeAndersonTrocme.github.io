@@ -2,8 +2,12 @@
 
 ![intro_image](./images/astro_plot2.jpg)
 
-> All Gene Tree graphics were made by Luke Anderson-Trocmé, a PhD candidate at McGill University.
+Gene Tree was made by Luke Anderson-Trocmé
 
->Email : luke.anderson-trocme.mail.mcgill.ca
->Twitter: @LukeAnderTroc
->GitHub: https://github.com/LukeAndersonTrocm
+Email : luke.anderson-trocme [at] mail.mcgill.ca
+
+Twitter: @LukeAnderTroc
+
+GitHub: https://github.com/LukeAndersonTrocm
+
+![intro_image](./images/hs.jpg)

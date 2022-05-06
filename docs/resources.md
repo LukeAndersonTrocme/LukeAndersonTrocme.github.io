@@ -1,3 +1,6 @@
+
+![fc](./images/fc.png)
+
 # Resources
 
 > Gene tree is a website dedicated to visualizing genealogies through space and time.
