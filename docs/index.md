@@ -5,7 +5,7 @@ title: Home
 
 # Luke Anderson-Trocmé
 
-Email: [landersontrocme at uchicago dot edu](landersontrocme at uchicago dot edu)  
+Email: landersontrocme at uchicago dot edu
 GitHub: [github.com/LukeAndersonTrocme](https://github.com/LukeAndersonTrocme)
 
 ---
