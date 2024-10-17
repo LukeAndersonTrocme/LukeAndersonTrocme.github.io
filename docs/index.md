@@ -5,9 +5,7 @@ title: Home
 
 # Luke Anderson-Trocmé
 
-**Population Geneticist | Evolutionary Biologist | Data Scientist**
-
-Email: [landersontrocme@uchicago.edu](landersontrocme at uchicago dot edu)  
+Email: [landersontrocme at uchicago dot edu](landersontrocme at uchicago dot edu)  
 GitHub: [github.com/LukeAndersonTrocme](https://github.com/LukeAndersonTrocme)
 
 ---
