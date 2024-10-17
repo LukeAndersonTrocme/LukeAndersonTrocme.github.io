@@ -14,7 +14,7 @@ GitHub: [github.com/LukeAndersonTrocme](https://github.com/LukeAndersonTrocme)
 
 ## About Me
 
-I am a population geneticist and data scientist dedicated to decoding the history embedded in genomes. By integrating genetic, genealogical, and spatial data, I develop innovative methods to uncover the dynamics of genetic diversity and evolution.
+I am a population geneticist and data scientist dedicated to decoding the history embedded in genomes.
 
 [Publications](publications.md) | [Media Coverage](media.md) 
 
@@ -39,12 +39,6 @@ I am a population geneticist and data scientist dedicated to decoding the histor
   - *Thesis*: *On the Experimental Evolution of Dark Growth in Chlamydomonas reinhardtii*
 - **B.Sc. (Honours) in Life Sciences**, McGill University, 2011 - 2014
   - *Specialization*: Microbiology & Molecular Biotechnology
-
-
-
-
-- **Teaching Assistant**, McGill University, 2014 - 2018
-  - Courses: Molecular Biology, Cell and Molecular Biology, Organismal Biology
 
 <!-- You can add more sections or details as needed -->
 
